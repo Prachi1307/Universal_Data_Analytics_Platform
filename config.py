@@ -1,0 +1,9 @@
+DATABASE="database/factory.db"
+
+PRIMARY="#3B82F6"
+
+SUCCESS="#10B981"
+
+WARNING="#F59E0B"
+
+DANGER="#EF4444"

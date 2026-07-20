@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+xlsxwriter
+reportlab
+bcrypt
+Pillow
+streamlit-option-menu
+streamlit-extras
+streamlit-lottie
+streamlit-aggrid
